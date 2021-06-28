@@ -8,7 +8,7 @@ html {
 
   body {
     height: 100%;
-    background-image: linear-gradient(#7B9F35, #4f159c);
+    background-image: linear-gradient(#df5198, #4f159c);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -78,7 +78,7 @@ html {
     align-self: center;
   }
   .level{
-    border: 2px solid rgb(166, 209, 12);
+    border: 2px solid rgb(255, 255, 255);
     background-color: rgb(166, 209, 12);
     margin: 6px;
     border-radius: 10px;
@@ -86,7 +86,6 @@ html {
   }
   .level:hover{
     transform: scale(1.2);
-    text-decoration: underline;
   }
   
   .grid {
